@@ -1,0 +1,18 @@
+385190015
+1750649496-2911068-930886768
+{ShareKey: "7n5OTd-vHqyh", FileID: 16714153, S3keyFlag: "1841062643-0", Size: 51073887,…}
+Etag
+: 
+"1d59f6ddd85d458736e62452541618c5"
+FileID
+: 
+16714153
+S3keyFlag
+: 
+"1841062643-0"
+ShareKey
+: 
+"7n5OTd-vHqyh"
+Size
+: 
+51073887
